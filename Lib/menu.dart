@@ -659,7 +659,7 @@ fontSize: 16.0
   void showPlacePicker() async {
    // LocationResult? result = await Navigator.of(context).push(MaterialPageRoute(
   //      builder: (context) =>
-//            PlacePicker("AIzaSyA7fRUg_vYd8Q3lxCiGo9IKsIIVgrAT564")));
+//          
 
     // Handle the result in your way
     //print(result);F
