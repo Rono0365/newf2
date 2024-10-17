@@ -44,7 +44,7 @@
             android:name="com.google.firebase.messaging.default_notification_channel_id"
             android:value="channel_id_app" />     
         <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="AIzaSyBd3tnhU3mNNEfG09l8r6BMAo-2dHvN06s"
+               android:value="api"
               />     
     </application>
 </manifest>
